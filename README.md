@@ -1,21 +1,21 @@
-### Hi there 👋
+### 👋 
 
 <!--
 **Daniel-Hub01/Daniel-Hub01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
 
-### Title, Subtitle
+### PERSONAL PROFILE
 - 👋 Hi 👋, I'm Daniel Tweneboah Anyimadu
-- 🔭 A passionate Data Analyst, AI, and ML enthusiast from Ghana
+- 🔭 A passionate Data Analyst, AI, and ML enthusiast from Ghana but currently in Europe (France, Italy, Spain) 
 
-### Work
-- 🌱 I’m currently learning Medical Imaging, and Applications: Machine Learning | Pattern Recognition | Computer Vision | Image Processing | Computer-Aided Surgery and Medical Robotics | Sensors, and Acquisition |
-- 👯 I’m looking to collaborate on Medical Imaging related projects with researchers 
+### CAREER DETAILS
+- 🌱 I’m currently learning Medical Imaging, and Applications: Machine Learning | Pattern Recognition | Computer Vision | Image Processing | Computer-Aided Surgery and Medical Robotics | Sensors and Acquisition | as part of my Erasmus curriculum module. 
+- 👯 I’m looking forward to collaborating on Medical imaging-related projects with researchers 
 - 📫 How to reach me: dtanyimadu@gmail.com
 - ⚡ Fun fact: When it comes to medical imaging, seeing beyond image pixels is enticing!
 
-### Skills
+### COMPUTATIONAL SKILLS
 - Programming: R, Python  
 - AI/ML: Tensorflow, Computer Vision, Scikit Learn 
 - Database: MySQL 
