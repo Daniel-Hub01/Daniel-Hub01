@@ -1,4 +1,4 @@
 ### CLASSIFICATION CHALLENGE ON ALZHEIMER’S DISEASE USING MRIS AND GENE EXPRESSION DATA
 
-![0075713_ANYIMADU](https://github.com/Daniel-Hub01/Daniel-Hub01/assets/77064553/a708e5cc-752a-44ad-9c32-e527bafe51fe)
+![Classification_Abstract](https://github.com/Daniel-Hub01/Daniel-Hub01/assets/77064553/091d33bf-a848-4775-9704-04641bc2f626)
 
