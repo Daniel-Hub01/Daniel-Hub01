@@ -20,16 +20,15 @@ Here are some ideas to get you started:-->
 
 ### COMPUTATIONAL SKILLS
 - Programming: R, Python
+- AI/ML: Tensorflow, Computer Vision, Scikit Learn 
+- Database: MySQL 
+- Software: Figma
+  
+
   ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  
-- AI/ML: Tensorflow, Computer Vision, Scikit Learn
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
   ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
   ![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-   
-- Database: MySQL
   ![image](https://github.com/Daniel-Hub01/Daniel-Hub01/assets/77064553/905722df-d40c-43af-8df9-232046d716fa)
-   
-- Software: Figma
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
